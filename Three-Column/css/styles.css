@@ -1,0 +1,41 @@
+#left {
+  float: left;
+  background-color: #85929E;
+  width: 20%;
+  height: 60%;
+  margin-right: 12px;
+  margin-bottom: 12px;
+}
+
+#middle {
+  float: left;
+  background-color: #85929E;
+  width: 57.8%;
+  height: 60%;
+  margin-right: 12px;
+  margin-bottom: 12px;
+}
+
+#right {
+  float: right;
+  background-color: #85929E;
+  width: 20%;
+  height: 60%;
+  margin-bottom: 12px;
+}
+
+header {
+  height: 100px;
+  background-color: #85929E;
+  margin-bottom: 12px;
+}
+
+footer {
+  clear: both;
+  background-color: #85929E;
+  margin-top: 12px;
+  height: 100px;
+  margin-bottom: 12px;
+  padding-top: 12px;
+  text-align: center;
+}
